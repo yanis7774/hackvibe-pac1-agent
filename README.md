@@ -1,6 +1,6 @@
 # Hack'n'Vibe — агент для BitGN PAC1
 
-Компактный агент для бенчмарка [BitGN PAC1](https://bitgn.com). 5 место в Ultimate Leaderboard на слепом прогоне (pac1-prod, ~104 задачи), стабильно 43/43 = 100% на pac1-dev.
+Компактный агент для бенчмарка [BitGN PAC1](https://bitgn.com). На слепом прогоне (pac1-prod, ~104 задачи): **3 место в Accuracy Leaderboard**, **5 место в Ultimate Leaderboard**. Стабильно 43/43 = 100% на pac1-dev.
 
 Канал автора: [@hack_n_vibe](https://t.me/hack_n_vibe)
 

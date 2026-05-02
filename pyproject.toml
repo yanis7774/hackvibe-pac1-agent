@@ -1,7 +1,7 @@
 [project]
 name = "hackvibe-pac1-agent"
 version = "1.0.0"
-description = "Hack'n'Vibe — компактный агент для BitGN PAC1 на Claude Code, 5 место в Ultimate Leaderboard на blind prod"
+description = "Hack'n'Vibe — компактный агент для BitGN PAC1 на Claude Code, 3 место Accuracy / 5 место Ultimate на blind prod"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
