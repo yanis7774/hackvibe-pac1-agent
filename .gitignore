@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.env
+.credentials.json
+node_modules/
+*.log
+.gstack/
+.idea/
+.vscode/
+progress.log
